@@ -44,8 +44,6 @@ Classifies brain MRI images into **4 categories** (Glioma, Meningioma, No Tumor,
 
 Predicts the selling price of used cars using a **Random Forest Regressor**, deployed as a **Flask web app** on Render.
 
-🌍 **Live Demo:** [https://car-price-prediction-app-00au.onrender.com](https://car-price-prediction-app-00au.onrender.com)
-
 **Dataset:** Vehicle Dataset from CarDekho (Kaggle) — ~301 records  
 **Features:** Present Price, Kms Driven, Fuel Type, Transmission, Car Age, etc.  
 **Deployment:** Flask + Pickle → Render
