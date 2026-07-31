@@ -133,10 +133,3 @@ Trains an autonomous spacecraft agent to safely land on a designated pad using *
 ├── cartpole/                             # PPO reinforcement learning
 ├── lunar lander/                         # DQN reinforcement learning
 └── README.md                             # This file
-```
-
----
-
-<p align="center">
-  <i>Built with ❤️ by Akshat Garg</i>
-</p>
