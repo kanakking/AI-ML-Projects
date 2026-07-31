@@ -1,0 +1,74 @@
+# ============================================
+# Central .gitignore — AI/ML Projects Portfolio
+# ============================================
+
+# ---------- Datasets ----------
+# Brain Tumor MRI dataset (Cancer Classification)
+Cancer Classification/brain-tumor-mri-dataset/
+
+# CarDekho vehicle dataset (Car Price Prediction)
+car price prediction/vehicle-dataset-from-cardekho/
+
+# Movie datasets (Movie Recommendation System)
+Movie-Recommendation-System/movies.csv
+Movie-Recommendation-System/ratings.csv
+
+# RAG Chatbot source documents and FAISS index
+Rag Chatbot /data/
+
+# ---------- Anaconda / Jupyter Temp Files ----------
+anaconda_projects/
+.ipynb_checkpoints/
+.virtual_documents/
+
+# ---------- Python ----------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ---------- Virtual Environments ----------
+venv/
+.venv/
+env/
+.env/
+.conda/
+
+# ---------- IDE / Editor ----------
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ---------- macOS ----------
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ---------- Trained Models / Large Binaries ----------
+*.pkl
+*.h5
+*.hdf5
+*.zip
+*.tar.gz
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.savedmodel/
+
+# ---------- Logs ----------
+*.log
+cartpole/logs/
+lunar lander/logs/
+
+# ---------- Misc ----------
+*.bak
+*.tmp
+Thumbs.db
