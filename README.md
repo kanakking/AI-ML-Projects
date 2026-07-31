@@ -10,7 +10,7 @@ A collection of **9 projects** spanning Machine Learning, Deep Learning, Compute
 |---|---|---|---|---|
 | 1 | [Adult Census Income Classification](./Adult%20Census%20Income%20Classification/) | ML — Classification | Logistic Regression, Decision Tree, Random Forest, KNN, SVM | — |
 | 2 | [Cancer Classification (Brain Tumor MRI)](./Cancer%20Classification/) | DL — Medical Imaging | CNN, TensorFlow, ImageDataGenerator, 4-class MRI | — |
-| 3 | [Car Price Prediction](./car%20price%20prediction/) | ML — Regression | Random Forest, Flask, Pickle | [🌍 Live on Render](https://car-price-prediction-app-00au.onrender.com) |
+| 3 | [Car Price Prediction](./car%20price%20prediction/) | ML — Regression | Random Forest, Flask, Pickle |  |
 | 4 | [CIFAR-10 Image Classification](./CIFAR%2010/) | DL — Computer Vision | CNN, Data Augmentation, BatchNorm | — |
 | 5 | [LFW Face Recognition](./LFW%20face%20recognition/) | DL — Face Recognition | CNN, LFW Dataset, 7-class face ID | — |
 | 6 | [Movie Recommendation System](./Movie-Recommendation-System/) | ML — NLP / Recommender | TF-IDF, Cosine Similarity, Flask | — |
